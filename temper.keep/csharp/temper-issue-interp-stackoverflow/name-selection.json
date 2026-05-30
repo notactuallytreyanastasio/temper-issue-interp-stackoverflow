@@ -1,0 +1,12 @@
+{
+    "about": "Backend names selected by user via the temper CLI. This file should be committed.",
+    "toolchain-version": "<debug>",
+    "library-name": "temper-issue-interp-stackoverflow",
+    "backend-id": "csharp",
+    "selections": [
+        {
+            "qualified-name": "temper-issue-interp-stackoverflow.count()",
+            "selected-name": "Count"
+        }
+    ]
+}

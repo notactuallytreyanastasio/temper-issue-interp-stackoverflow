@@ -1,0 +1,16 @@
+{
+    "about": "Backend names selected by user via the temper CLI. This file should be committed.",
+    "toolchain-version": "<debug>",
+    "library-name": "temper-issue-interp-stackoverflow",
+    "backend-id": "py",
+    "selections": [
+        {
+            "qualified-name": "temper-issue-interp-stackoverflow.count()",
+            "selected-name": "count"
+        },
+        {
+            "qualified-name": "temper-issue-interp-stackoverflow.count().return",
+            "selected-name": "return_5"
+        }
+    ]
+}
